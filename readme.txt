@@ -7,3 +7,5 @@ Create A new branch Dev.
 Create A new branch feature1-2.
 Create A new branch Dev.
 Fix bug 101.
+Fix bugs.
+Fix bugs.
